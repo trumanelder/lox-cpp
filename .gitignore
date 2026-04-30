@@ -1,0 +1,39 @@
+# IDE / editor
+.vs/
+.vscode/
+*.vcxproj.user
+
+# Build directories
+build/
+out/
+Debug/
+Release/
+x64/
+x86/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
+
+# Binaries / libraries
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+*.lib
+*.a
+
+# Object / debug files
+*.obj
+*.o
+*.pdb
+*.ilk
+
+# Logs / temp
+*.log
+*.tmp
